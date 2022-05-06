@@ -1,8 +1,8 @@
-#Introduction
+# Introduction
 
 In my household we are primarily very energy conscious, and we always try to minimise our impact on the environment.
 
-#Aim
+# Aim
 
 This project is to attempt to create a realtime energy monitor with Arduino and a clamp with the aim of using with a raspberry-pi to display live energy data and possible identify items that have started using energy and track how much each devices uses.
 
